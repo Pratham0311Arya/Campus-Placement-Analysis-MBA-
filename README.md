@@ -18,3 +18,9 @@ We have analysed the placment of student of a mba college using the data availab
   - KNN
   - Logistic Regression
   - Random Forest
+## Conclusion
+- The problem of campus placement prediction can be solved with the help of different 
+machine learningalgorithms.
+- Here, the Logistic Regression Algorithm gave the highest accuracy (90%) for the campus placement prediction
+- The selected features i.e. Gender, SSC percentage, HSC percentage, HSC Specialization, Degree Percentage, UG Degree Stream, Work Experience, E -test Percentage,
+  Degree Specialization & Degree Percentage lead to higher classification accuracy.
